@@ -10,11 +10,11 @@ import javax.annotation.PostConstruct;
 import java.util.Set;
 
 @Component
-public class DataInitializer {
+public class AdminInitializer {
     private final RoleService roleService;
     private final UserService userService;
 
-    public DataInitializer(RoleService roleService, UserService userService) {
+    public AdminInitializer(RoleService roleService, UserService userService) {
         this.roleService = roleService;
         this.userService = userService;
     }
