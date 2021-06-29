@@ -34,6 +34,5 @@ This web-project represents cinema service. Application works with database and 
 1) Click on clone this project, open your IDE, then File -> New -> Project from Version Control -> paste project's URL -> Click clone.
 2) Configure Tomcat Server(the best solution is to use Tomcat 9.0.46 or later version);
 3) Configure MySQL RDBMS.
-4) Open resources/db.properties file and change URL, Username and Password values to your own.
-  (Hint: URL should be like - url: jdbc:mysql://(host name):(port)/(database name)?serverTimezone=UTC)
+4) Open resources/db.properties file and change URL, Username and Password values to your own.(Hint: URL should be like - url: jdbc:mysql://(host name):(port)/(database name)?serverTimezone=UTC)
 6) Run an application.
