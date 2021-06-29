@@ -1,8 +1,7 @@
 # Cinema application
 This project represents itself as web based system, which can be used by opera theatres as an online service.Their clients can check schedule, buy tickets and reserve their seats for performance there. It is developed on the stack of Hibernate and Spring on the principles of SOLID, and it has N-tier architecture with DataBase, DAO, Service, Controllers and View layers. Its functions are authentication and authorization with the help of roles. There is a UML diagram below with relationship between entities and access level description of the relevant role.
-https://camo.githubusercontent.com/6d12f2a429558bac42b9bd9fba2d700f0453384fc23f0660cae9ad285ab07e99/68747470733a2f2f692e706f7374696d672e63632f36514e6b5a39774e2f4361726565722d506c616e6e696e672d4d696e642d4d61702e706e67
 
-#Main functions:
+# Main functions:
 Guest (without any role)
 
 registration
