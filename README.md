@@ -3,14 +3,14 @@ This project represents itself as web based system, which can be used by opera t
 This web-project represents cinema service. Application works with database and offers many demonstrative functionalities like: inserting and updating movie, movie session and order informations.
 
 # Main functions:
-Unauthorized user
+### Unauthorized user
 
   - registration
   - viewing all available sessions
   - viewing information about all cinema halls
   - searching session by date
 
-User
+### User
 
   - booking ticket
   - adding a ticket to the shopping cart
@@ -18,7 +18,7 @@ User
   - making order
   - viewing history of all orders
 
-Admin
+### Admin
 
   - adding / editing movies, cinema halls, movie sessions
   - search information about the user by e-mail
