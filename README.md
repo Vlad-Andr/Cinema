@@ -2,7 +2,7 @@
 This project represents itself as web based system, which can be used by opera theatres as an online service.Their clients can check schedule, buy tickets and reserve their seats for performance there.
 This web-project represents cinema service. Application works with database and offers many demonstrative functionalities like: inserting and updating movie, movie session and order informations.
 
-# Main functions:
+# Functions:
 ### Unauthorized user
 
   - registration
