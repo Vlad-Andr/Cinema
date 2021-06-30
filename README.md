@@ -40,3 +40,4 @@ The database was created by following schema:
 3) Configure MySQL RDBMS.
 4) Open resources/db.properties file and change URL, Username and Password values to your own.(Hint: URL should be like - url: jdbc:mysql://(host name):(port)/(database name)?serverTimezone=UTC)
 6) Run an application.
+7) LogIn as admin (Hint: login - admin, password - login)
