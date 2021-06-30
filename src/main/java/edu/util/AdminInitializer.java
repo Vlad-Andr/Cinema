@@ -24,10 +24,10 @@ public class AdminInitializer {
         roleService.add(new Role(RoleName.ROLE_ADMIN));
         roleService.add(new Role(RoleName.ROLE_USER));
 
-        User alice = new User();
-        alice.setEmail("admin");
-        alice.setPassword("admin");
-        alice.setRoles(Set.of(roleService.getRoleByName(RoleName.ROLE_ADMIN)));
-        userService.add(alice);
+        User admin = new User();
+        admin.setEmail("admin");
+        admin.setPassword("admin");
+        admin.setRoles(Set.of(roleService.getRoleByName(RoleName.ROLE_ADMIN)));
+        userService.add(admin);
     }
 }
